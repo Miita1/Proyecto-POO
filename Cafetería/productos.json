@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Crepa",
+        "precio": 54,
+        "stock": 61
+    },
+    {
+        "nombre": "Brownie",
+        "precio": 45,
+        "stock": 0
+    },
+    {
+        "nombre": "Capuchino",
+        "precio": 65,
+        "stock": 80
+    },
+    {
+        "nombre": "Chai",
+        "precio": 75,
+        "stock": 25
+    },
+    {
+        "nombre": "Cheesecake",
+        "precio": 90,
+        "stock": 20
+    },
+    {
+        "nombre": "Chocoflan",
+        "precio": 56,
+        "stock": 32
+    },
+    {
+        "nombre": "Copa de helado",
+        "precio": 65,
+        "stock": 22
+    },
+    {
+        "nombre": "Croissant",
+        "precio": 65,
+        "stock": 30
+    },
+    {
+        "nombre": "Espresso",
+        "precio": 45,
+        "stock": 20
+    },
+    {
+        "nombre": "Flan",
+        "precio": 35,
+        "stock": 32
+    },
+    {
+        "nombre": "Gelatina",
+        "precio": 24,
+        "stock": 15
+    },
+    {
+        "nombre": "Latte",
+        "precio": 60,
+        "stock": 42
+    },
+    {
+        "nombre": "Limonada mineral",
+        "precio": 65,
+        "stock": 34
+    },
+    {
+        "nombre": "Limonada rosa",
+        "precio": 75,
+        "stock": 34
+    },
+    {
+        "nombre": "Malteada de chocolate",
+        "precio": 70,
+        "stock": 31
+    },
+    {
+        "nombre": "Malteada de fresa ",
+        "precio": 70,
+        "stock": 26
+    },
+    {
+        "nombre": "Matcha",
+        "precio": 65,
+        "stock": 27
+    },
+    {
+        "nombre": "Pastel de zanahoria",
+        "precio": 65,
+        "stock": 32
+    },
+    {
+        "nombre": "Pay de lim\u00f3n",
+        "precio": 70,
+        "stock": 32
+    },
+    {
+        "nombre": "Smoothie",
+        "precio": 69,
+        "stock": 50
+    },
+    {
+        "nombre": "Taro",
+        "precio": 75,
+        "stock": 60
+    },
+    {
+        "nombre": "Waffles",
+        "precio": 80,
+        "stock": 28
+    },
+    {
+        "nombre": "Tiramis\u00fa",
+        "precio": 70,
+        "stock": 32
+    },
+    {
+        "nombre": "T\u00e9",
+        "precio": 50,
+        "stock": 62
+    }
+]

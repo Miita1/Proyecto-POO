@@ -1,0 +1,42 @@
+[
+    {
+        "cliente": "Mia",
+        "pedido": [
+            {
+                "producto": "T\u00e9",
+                "cantidad": 1,
+                "personalizacion": "Sin az\u00facar, Tama\u00f1o: Mediano"
+            },
+            {
+                "producto": "Brownie",
+                "cantidad": 2,
+                "personalizacion": ""
+            },
+            {
+                "producto": "T\u00e9",
+                "cantidad": 1,
+                "personalizacion": "Sin az\u00facar, Tama\u00f1o: Mediano"
+            },
+            {
+                "producto": "Crepa",
+                "cantidad": 1,
+                "personalizacion": ""
+            }
+        ]
+    },
+    {
+        "cliente": "Mia",
+        "pedido": [
+            {
+                "producto": "T\u00e9",
+                "cantidad": 1,
+                "personalizacion": "Sin az\u00facar, Tama\u00f1o: Mediano"
+            },
+            {
+                "producto": "Crepa",
+                "cantidad": 1,
+                "personalizacion": ""
+            }
+        ]
+    }
+]
